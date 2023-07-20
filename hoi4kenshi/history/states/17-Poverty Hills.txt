@@ -1,0 +1,34 @@
+state={
+	id=17
+	name="STATE_17"
+	provinces={
+		150 502 1010 1018 1109 1940 2210 3962 4375 4573 4582 4592 4604 
+	}
+	manpower=28205
+	buildings_max_level_factor=1.000
+
+
+	state_category = rural
+	
+	resources = {
+		#steel = 0    #IRON
+		#tungsten = 0    #COPPER
+		#aluminium = 0    #STONE
+	}
+	
+	history = {
+		owner = FRB
+		#controller = FRB
+		add_core_of = FRB
+		
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 0
+			arms_factory = 1
+		}
+		
+		#victory_points = { }
+	}
+	
+	local_supplies = 5.0
+}
