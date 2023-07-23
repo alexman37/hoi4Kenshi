@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5291 5 } # Trust
+		victory_points = { 2446 1 } # Colossa
 	}
 	
 	local_supplies = 5.0

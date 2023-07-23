@@ -27,7 +27,7 @@ state={
 			arms_factory = 6
 		}
 		
-		#victory_points = { }
+		victory_points = { 4587 5 } # The Bastion
 	}
 	
 	local_supplies = 5.0

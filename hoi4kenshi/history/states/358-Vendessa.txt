@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3410 1 } # Mountain View
+		victory_points = { 6337 1 } # Cadence
 	}
 	
 	local_supplies = 5.0

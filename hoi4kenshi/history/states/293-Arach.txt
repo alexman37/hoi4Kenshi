@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 5986 15 } # Throne Of The Bugmaster
 	}
 	
 	local_supplies = 5.0

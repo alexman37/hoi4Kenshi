@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 5423 30 } # Waystation Grey
 	}
 	
 	local_supplies = 5.0

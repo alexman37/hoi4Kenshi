@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1781 3 } # Cloke
+		victory_points = { 1695 3 } # Dagga
 	}
 	
 	local_supplies = 5.0

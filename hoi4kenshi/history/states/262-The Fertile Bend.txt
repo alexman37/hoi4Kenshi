@@ -27,7 +27,8 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 4433 5 } # Pardice
+		victory_points = { 1706 1 } # Minge
 	}
 	
 	local_supplies = 5.0

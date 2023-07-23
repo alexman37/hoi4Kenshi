@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 2177 5 } # City of the Survivor
 	}
 	
 	local_supplies = 5.0

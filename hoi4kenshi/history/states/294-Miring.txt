@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 5947 3 } # Chain Lakes
+		victory_points = { 2018 15 } # Mica Point
 	}
 	
 	local_supplies = 5.0

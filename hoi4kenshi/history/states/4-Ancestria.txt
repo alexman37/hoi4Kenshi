@@ -27,7 +27,9 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 1603 3 } # Dearmi
+		victory_points = { 2567 5 } # Omunch
+		victory_points = { 2345 15 } # First Village
 	}
 	
 	local_supplies = 5.0

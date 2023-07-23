@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 5962 3 } # Jeek
+		victory_points = { 3195 1 } # Milkbox
 	}
 	
 	local_supplies = 5.0

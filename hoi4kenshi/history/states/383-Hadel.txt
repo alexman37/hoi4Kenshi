@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 3307 5 } # New Rayner
+		victory_points = { 1729 3 } # Camp Hadel
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3374 3 } # Misty Moor
 	}
 	
 	local_supplies = 5.0

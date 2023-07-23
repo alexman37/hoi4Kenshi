@@ -27,7 +27,7 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 309 3 } # Shido
 	}
 	
 	local_supplies = 5.0

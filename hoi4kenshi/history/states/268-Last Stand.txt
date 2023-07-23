@@ -27,7 +27,8 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 2510 15 } # Last Stand
+		victory_points = { 3441 1 } # Huga
 	}
 	
 	local_supplies = 5.0

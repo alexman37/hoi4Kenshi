@@ -4,7 +4,7 @@ state={
 	provinces={
 		118 1676 1814 2950 4380 5463 5472 6603 
 	}
-	manpower=12520
+	manpower=13520
 	buildings_max_level_factor=1.000
 
 
@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5463 1 } # Larva
 	}
 	
 	local_supplies = 5.0

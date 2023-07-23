@@ -27,7 +27,9 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 6194 3 } # Mildew Valley
+		victory_points = { 1309 3 } # Clamtown
+		victory_points = { 6320 10 } # Saigono
 	}
 	
 	local_supplies = 5.0

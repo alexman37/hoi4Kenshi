@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 2116 1 } # The Price of Obedience
 	}
 	
 	local_supplies = 5.0

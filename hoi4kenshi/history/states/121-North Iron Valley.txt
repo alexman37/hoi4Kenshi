@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 53 1 } # City of Shame
 	}
 	
 	local_supplies = 0.0

@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 942 1 } # Skullpoint
+		victory_points = { 3677 1 } # Glob
 	}
 	
 	local_supplies = 5.0

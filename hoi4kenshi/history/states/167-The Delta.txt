@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 1542 30 } # Big Trig
+		victory_points = { 5382 3 } # Altachek
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 1066 3 } # Custer
+		victory_points = { 4695 1 } # Unholy Forest
 	}
 	
 	local_supplies = 5.0

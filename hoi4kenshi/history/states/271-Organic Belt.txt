@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 3020 5 } # Mud Town
+		victory_points = { 354 3 } # Vamper
 	}
 	
 	local_supplies = 5.0

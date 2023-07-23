@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 136 3 } # Ruins of Arbor
 	}
 	
 	local_supplies = 5.0

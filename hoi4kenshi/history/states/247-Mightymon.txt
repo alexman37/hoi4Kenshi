@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 1755 3 } # Battleborn
+		victory_points = { 5756 1 } # Upflow
 	}
 	
 	local_supplies = 5.0

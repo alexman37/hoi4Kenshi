@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 6229 3 } # Headshot Hill
+		victory_points = { 2437 10 } # Tidetown
 	}
 	
 	local_supplies = 5.0

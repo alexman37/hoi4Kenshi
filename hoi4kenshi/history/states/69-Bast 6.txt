@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1914 3 } # Desert Lady
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5555 5 } # Queen Island
 	}
 	
 	local_supplies = 5.0

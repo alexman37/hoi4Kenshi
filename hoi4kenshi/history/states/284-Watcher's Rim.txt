@@ -27,7 +27,9 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3138 1 } # Fort Shank
+		victory_points = { 3803 3 } # Karnov Pass
+		victory_points = { 291 1 } # Fort Scorn
 	}
 	
 	local_supplies = 5.0

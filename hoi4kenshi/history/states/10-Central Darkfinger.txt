@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 2314 5 } # Heart of Horros
 	}
 	
 	local_supplies = 5.0

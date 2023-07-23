@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3988 15 } # Shab
+		victory_points = { 3109 10 } # Muck
 	}
 	
 	local_supplies = 5.0

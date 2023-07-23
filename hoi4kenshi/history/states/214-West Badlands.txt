@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1194 1 } # Dryrun
 	}
 	
 	local_supplies = 5.0

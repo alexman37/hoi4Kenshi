@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3434 1 } # The Old Workshop
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,7 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 559 15 } # Frentir City
 	}
 	
 	local_supplies = 5.0

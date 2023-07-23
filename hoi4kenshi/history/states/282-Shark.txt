@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 69 50 } # Shark
 	}
 	
 	local_supplies = 5.0

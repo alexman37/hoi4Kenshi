@@ -27,7 +27,10 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 6396 30 } # Drifter's Last
+		victory_points = { 1252 3 } # Sultan Isle
+		victory_points = { 46 1 } # Nook
+		victory_points = { 1953 5 } # Old Rayner
 	}
 	
 	local_supplies = 5.0

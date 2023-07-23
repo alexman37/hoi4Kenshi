@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 5799 3 } # Sashidasu
+		victory_points = { 2954 1 } # Swampsand
 	}
 	
 	local_supplies = 5.0

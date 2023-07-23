@@ -27,7 +27,10 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 5596 3 } # Moho
+		victory_points = { 5628 1 } # Littleville
+		victory_points = { 2471 5 } # Dres
+		victory_points = { 5565 10 } # Fort Westing
 	}
 	
 	local_supplies = 5.0

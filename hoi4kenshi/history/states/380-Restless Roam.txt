@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 4083 1 } # Nudge
 	}
 	
 	local_supplies = 5.0

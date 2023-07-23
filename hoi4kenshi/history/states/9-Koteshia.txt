@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 3810 3 } # Vill
+		victory_points = { 3810 3 } # Sall
 		victory_points = { 1229 1 } # Mount Maddox
 	}
 	

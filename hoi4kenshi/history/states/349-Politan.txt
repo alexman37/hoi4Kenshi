@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3352 3 } # Voxel
+		victory_points = { 2728 1 } # Pageant
 	}
 	
 	local_supplies = 5.0

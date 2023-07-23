@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 6004 1 } # Vanishing Village
 	}
 	
 	local_supplies = 5.0

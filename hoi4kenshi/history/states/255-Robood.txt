@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1611 5 } # Teefree
+		victory_points = { 1017 3 } # Misha
 	}
 	
 	local_supplies = 5.0

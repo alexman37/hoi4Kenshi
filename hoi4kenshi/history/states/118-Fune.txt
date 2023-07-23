@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 1482 1 } # Chestnut
 	}
 	
 	local_supplies = 5.0

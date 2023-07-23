@@ -27,7 +27,7 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 2623 30 } # Clownsteady
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 570 1 } # Takameru
+		victory_points = { 2674 3 } # Heiwa
 	}
 	
 	local_supplies = 5.0

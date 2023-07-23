@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 4307 15 } # The Great Fortress
+		victory_points = { 2191 3 } # Hart
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 4490 5 } # Mavel
+		victory_points = { 4444 1 } # Cape Wilson
+		victory_points = { 3625 5 } # Dibber
 	}
 	
 	local_supplies = 5.0

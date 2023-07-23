@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 1186 5 } # Mount Misery
+		victory_points = { 1255 3 } # Bliss
 	}
 	
 	local_supplies = 5.0

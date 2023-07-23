@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 696 10 } # Palma
+		victory_points = { 6084 3 } # Big Island
 	}
 	
 	local_supplies = 5.0

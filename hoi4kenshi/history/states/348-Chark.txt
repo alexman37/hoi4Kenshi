@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3716 3 } # Ruft
+		victory_points = { 4148 1 } # Scamper
 	}
 	
 	local_supplies = 5.0

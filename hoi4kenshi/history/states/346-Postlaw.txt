@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1726 5 } # Rhea's Arch
+		victory_points = { 42 1 } # Astrommi
 	}
 	
 	local_supplies = 5.0

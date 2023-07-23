@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 716 7 } # Great Southern Slave Market
 	}
 	
 	local_supplies = 5.0

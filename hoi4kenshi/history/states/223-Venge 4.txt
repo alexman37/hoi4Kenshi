@@ -27,7 +27,8 @@ state={
 			arms_factory = 5
 		}
 		
-		#victory_points = { }
+		victory_points = { 1533 10 } # Tower of Abuse
+		victory_points = { 52 1 } # Repurpose
 	}
 	
 	local_supplies = 5.0

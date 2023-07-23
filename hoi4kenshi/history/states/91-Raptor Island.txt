@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 277 1 } # Megaraptor's Cove
 	}
 	
 	local_supplies = 5.0

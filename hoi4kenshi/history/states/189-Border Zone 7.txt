@@ -27,7 +27,7 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 6534 10 } # Herget
 	}
 	
 	local_supplies = 5.0

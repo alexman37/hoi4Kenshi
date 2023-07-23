@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 5581 1 } # The Anything Bar
 	}
 	
 	local_supplies = 5.0

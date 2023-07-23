@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5503 3 } # Humit
 	}
 	
 	local_supplies = 5.0

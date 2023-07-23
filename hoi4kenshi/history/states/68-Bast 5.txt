@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 3816 10 } # Bast City
 	}
 	
 	local_supplies = 5.0

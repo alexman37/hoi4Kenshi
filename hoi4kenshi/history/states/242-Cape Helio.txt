@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 2079 3 } # Libby
+		victory_points = { 749 1 } # Hornstip
 	}
 	
 	local_supplies = 5.0

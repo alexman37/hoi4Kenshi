@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3923 10 } # Tradertown
+		victory_points = { 2324 1 } # Bucket Man
 	}
 	
 	local_supplies = 5.0
