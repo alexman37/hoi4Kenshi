@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3528 15 } # Fish Isle City
+		victory_points = { 2733 25 } # King Gurgler's Palace
+		victory_points = { 6449 5 } # Ikurai
 	}
 	
 	local_supplies = 5.0

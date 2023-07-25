@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5496 5 } # Brunt
+		victory_points = { 3417 3 } # Visage
+		victory_points = { 3035 2 } # Midas
 	}
 	
 	local_supplies = 5.0

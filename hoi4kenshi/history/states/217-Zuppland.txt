@@ -28,7 +28,7 @@ state={
 		}
 		
 		victory_points = { 5596 3 } # Moho
-		victory_points = { 5628 1 } # Littleville
+		victory_points = { 5628 1 } # Squimbus
 		victory_points = { 2471 5 } # Dres
 		victory_points = { 5565 10 } # Fort Westing
 	}

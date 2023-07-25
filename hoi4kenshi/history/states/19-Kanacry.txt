@@ -27,7 +27,11 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 4544 20 } # Port North
+		victory_points = { 4519 5 } # Double
+		victory_points = { 4577 3 } # Fund
+		victory_points = { 3420 1 } # Confine
+		victory_points = { 4686 3 } # Lyfeblood
 	}
 	
 	local_supplies = 5.0

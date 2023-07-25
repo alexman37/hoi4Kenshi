@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 3701 3 } # Dronerule
+		victory_points = { 107 1 } # No-Surrender
 	}
 	
 	local_supplies = 5.0

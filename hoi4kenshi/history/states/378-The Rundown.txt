@@ -27,7 +27,9 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3667 1 } # Cape Delphi
+		victory_points = { 1026 1 } # Unagi
+		victory_points = { 6423 1 } # Amachi
 	}
 	
 	local_supplies = 5.0

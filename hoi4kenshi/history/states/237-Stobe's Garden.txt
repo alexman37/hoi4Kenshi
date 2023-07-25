@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 25 1 } # Faze
+		victory_points = { 5719 10 } # Pax
 	}
 	
 	local_supplies = 5.0

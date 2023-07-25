@@ -27,7 +27,7 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 1069 10 } # Iron HQ
 	}
 	
 	local_supplies = 5.0

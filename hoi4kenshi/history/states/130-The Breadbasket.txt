@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3078 5 } # Northern Slave Market
+		victory_points = { 3076 15 } # Camp Fulfed
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1438 20 } # Department of Agriculture
+		victory_points = { 6315 5 } # Ecrypt
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		victory_points = { 2900 3 } # Arcadia
+		victory_points = { 2900 3 } # Sabretown
+		victory_points = { 4703 1 } # Fleeze
 	}
 	
 	local_supplies = 5.0

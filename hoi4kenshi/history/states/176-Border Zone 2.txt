@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 4658 3 } # Yangder
+		victory_points = { 4658 3 } # Yanger
 	}
 	
 	local_supplies = 5.0

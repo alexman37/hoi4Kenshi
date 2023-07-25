@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 712 1 } # Pican
+		victory_points = { 3751 1 } # Wallop
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,9 @@ state={
 			arms_factory = 6
 		}
 		
-		#victory_points = { }
+		victory_points = { 465 25 } # Spring
+		victory_points = { 2725 5 } # Fable
+		victory_points = { 3824 5 } # Fort Fearless
 	}
 	
 	local_supplies = 5.0

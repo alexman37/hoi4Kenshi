@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 4701 3 } # Desert Diamonds
+		victory_points = { 4755 10 } # Port South
+		victory_points = { 3123 1 } # Horse
 	}
 	
 	local_supplies = 5.0

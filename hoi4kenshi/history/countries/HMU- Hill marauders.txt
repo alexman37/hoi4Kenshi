@@ -97,9 +97,9 @@ add_ideas = {
 }
 
 set_popularities = {
-	new_imperialism = 60
-	okranite = 30
-	kralist_code = 10
+	new_imperialism = 0
+	okranite = 0
+	kralist_code = 0
 	old_imperialism = 0
 	hiver = 0
 	liberationism = 65

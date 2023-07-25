@@ -27,7 +27,9 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 2527 1 } # Firebreath
+		victory_points = { 4872 1 } # Extrema
+		victory_points = { 3149 1 } # Stoat Reeducation Center
 	}
 	
 	local_supplies = 5.0

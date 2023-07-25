@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 171 20 } # Department of Labor
 	}
 	
 	local_supplies = 5.0

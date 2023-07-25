@@ -27,7 +27,7 @@ state={
 			arms_factory = 7
 		}
 		
-		#victory_points = { }
+		victory_points = { 2283 100 } # Cat-Lon's Exile
 	}
 	
 	local_supplies = 5.0

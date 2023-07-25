@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 6601 3 } # Kerilla
+		victory_points = { 6601 5 } # Endin
+		victory_points = { 6554 1 } # Red Bear
 	}
 	
 	local_supplies = 5.0

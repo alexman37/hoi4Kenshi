@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 117 3 } # Edd Lake
+		victory_points = { 957 1 } # Kubass Bridge
 	}
 	
 	local_supplies = 5.0

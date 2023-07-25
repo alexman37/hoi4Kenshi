@@ -28,6 +28,7 @@ state={
 		}
 		
 		victory_points = { 4587 5 } # The Bastion
+		victory_points = { 4043 1 } # Purge
 	}
 	
 	local_supplies = 5.0

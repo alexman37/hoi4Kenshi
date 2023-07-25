@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		victory_points = { 2427 5 } # Jag
+		victory_points = { 2427 5 } # Kryga
 	}
 	
 	local_supplies = 5.0

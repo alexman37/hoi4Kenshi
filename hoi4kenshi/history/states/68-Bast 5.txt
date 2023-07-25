@@ -28,6 +28,8 @@ state={
 		}
 		
 		victory_points = { 3816 10 } # Bast City
+		victory_points = { 2015 1 } # Wybout
+		victory_points = { 4766 1 } # Rebirth Road
 	}
 	
 	local_supplies = 5.0

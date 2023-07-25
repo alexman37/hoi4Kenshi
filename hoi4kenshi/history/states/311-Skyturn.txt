@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2848 5 } # Salvation City
+		victory_points = { 3481 1 } # C-A01
 	}
 	
 	local_supplies = 5.0

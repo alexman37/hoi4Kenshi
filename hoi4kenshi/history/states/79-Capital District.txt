@@ -27,7 +27,10 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 4896 50 } # Heft
+		victory_points = { 4919 5 } # Birth of an Empire
+		victory_points = { 4888 10 } # Camp Boot
+		victory_points = { 4085 3 } # Dustwich City
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 2546 5 } # Avalon City
+		victory_points = { 1718 1 } # Pordge
 	}
 	
 	local_supplies = 5.0

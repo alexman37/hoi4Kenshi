@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 6080 5 } # Expedition 5
+		victory_points = { 718 1 } # Susa
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,9 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 4895 35 } # Stoat
+		victory_points = { 358 5 } # King's Ransom
+		victory_points = { 4865 5 } # Hellmine
 	}
 	
 	local_supplies = 5.0

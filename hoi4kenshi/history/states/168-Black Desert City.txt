@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 3531 5 } # Quin and Dack's
+		victory_points = { 3531 5 } # Quin & Dack's
 		victory_points = { 5410 30 } # Black Desert City
 	}
 	

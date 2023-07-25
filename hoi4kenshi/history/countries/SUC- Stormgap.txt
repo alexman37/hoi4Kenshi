@@ -1,4 +1,4 @@
-﻿capital = 180
+﻿capital = 186
 
 oob = "SUC"
 
@@ -87,7 +87,7 @@ if = {
 
 
 set_politics = {
-	ruling_party = independent
+	ruling_party = new_imperialism
 }
 
 add_ideas = {

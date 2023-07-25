@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 6434 3 } # Komeer
 	}
 	
 	local_supplies = 5.0

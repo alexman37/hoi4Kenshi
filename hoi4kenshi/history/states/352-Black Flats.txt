@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3680 5 } # Naeve
+		victory_points = { 1393 3 } # Nihare
 	}
 	
 	local_supplies = 5.0

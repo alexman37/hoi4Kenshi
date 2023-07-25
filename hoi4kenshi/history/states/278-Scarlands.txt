@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 5894 1 } # Safety
+		victory_points = { 418 1 } # Tatter
 	}
 	
 	local_supplies = 5.0

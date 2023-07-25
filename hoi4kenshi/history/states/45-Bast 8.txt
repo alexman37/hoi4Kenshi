@@ -2,7 +2,7 @@ state={
 	id=45
 	name="STATE_45"
 	provinces={
-		45 60 497 1276 2979 3403 4655 4675 4707 6583 
+		45 60 497 1276 2979 3403 4655 4675 4707 6560 
 	}
 	manpower=47618
 	buildings_max_level_factor=1.000
@@ -28,6 +28,7 @@ state={
 		}
 		
 		victory_points = { 2979 3 } # Abaddon
+		victory_points = { 45 1 } # Kovner
 	}
 	
 	local_supplies = 5.0

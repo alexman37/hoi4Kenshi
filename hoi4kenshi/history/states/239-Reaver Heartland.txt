@@ -27,7 +27,9 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 5705 15 } # Ark
+		victory_points = { 2572 3 } # Peacemade
+		victory_points = { 1712 3 } # Titan
 	}
 	
 	local_supplies = 5.0

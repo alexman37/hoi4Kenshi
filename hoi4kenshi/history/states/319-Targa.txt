@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 714 1 } # Herch Hill
+		victory_points = { 3324 1 } # Vettiker
 	}
 	
 	local_supplies = 5.0

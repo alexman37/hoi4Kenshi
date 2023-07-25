@@ -27,6 +27,7 @@ state={
 			arms_factory = 4
 		}
 		
+		victory_points = { 5498 1 } # The Dust Tower
 		victory_points = { 6534 10 } # Herget
 	}
 	

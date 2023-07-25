@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 6370 3 } # Auchin
+		victory_points = { 3783 5 } # Montgom
+		victory_points = { 3482 3 } # Fort Alexander
 	}
 	
 	local_supplies = 5.0

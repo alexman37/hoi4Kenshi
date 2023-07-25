@@ -27,7 +27,7 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 2370 15 } # The Southern Star
 	}
 	
 	local_supplies = 5.0

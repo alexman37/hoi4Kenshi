@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2526 1 } # Landohn
+		victory_points = { 4740 3 } # Morning
 	}
 	
 	local_supplies = 5.0

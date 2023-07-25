@@ -1,4 +1,4 @@
-﻿capital = 255
+﻿capital = 263
 
 oob = "WGR"
 

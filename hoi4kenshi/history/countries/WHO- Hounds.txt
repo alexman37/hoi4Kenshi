@@ -1,4 +1,4 @@
-﻿capital = 241
+﻿capital = 238
 
 oob = "WHO"
 

@@ -27,7 +27,11 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1458 5 } # Straw
+		victory_points = { 3959 10 } # Haste
+		victory_points = { 426 3 } # Middleton
+		victory_points = { 4293 5 } # Chauvin
+		victory_points = { 5031 1 } # Fast Mine
 	}
 	
 	local_supplies = 5.0

@@ -28,6 +28,7 @@ state={
 		}
 		
 		victory_points = { 2123 3 } # Yinja
+		victory_points = { 6578 1 } # Batter
 	}
 	
 	local_supplies = 5.0

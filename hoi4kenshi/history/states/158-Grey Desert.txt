@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 5423 30 } # Waystation Grey
+		victory_points = { 5423 30 } # Future HQ
 	}
 	
 	local_supplies = 5.0

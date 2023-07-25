@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3989 10 } # Fort Winter
+		victory_points = { 6266 5 } # Brook
 	}
 	
 	local_supplies = 5.0

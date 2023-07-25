@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 2557 1 } # Teardrop
+		victory_points = { 5742 1 } # Ninety
 	}
 	
 	local_supplies = 5.0

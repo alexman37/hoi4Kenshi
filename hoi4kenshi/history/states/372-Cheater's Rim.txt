@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 6364 1 } # Somme
+		victory_points = { 1688 1 } # Roll Isle
 	}
 	
 	local_supplies = 5.0

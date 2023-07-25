@@ -27,7 +27,7 @@ state={
 			arms_factory = 4
 		}
 		
-		#victory_points = { }
+		victory_points = { 6590 5 } # The Great Barrier
 	}
 	
 	local_supplies = 5.0

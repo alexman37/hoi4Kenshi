@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 4803 3 } # Eplace
+		victory_points = { 3326 1 } # Mergegrove
+		victory_points = { 1020 3 } # Cast
 	}
 	
 	local_supplies = 5.0

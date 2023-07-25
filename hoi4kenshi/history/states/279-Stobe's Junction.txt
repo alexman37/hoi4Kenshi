@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 3004 3 } # Weep
 	}
 	
 	local_supplies = 5.0

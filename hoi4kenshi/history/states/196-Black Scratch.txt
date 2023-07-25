@@ -27,7 +27,9 @@ state={
 			arms_factory = 3
 		}
 		
-		#victory_points = { }
+		victory_points = { 5550 30 } # Black Scratch
+		victory_points = { 4158 5 } # Heath
+		victory_points = { 5562 5 } # Post Fiona
 	}
 	
 	local_supplies = 5.0

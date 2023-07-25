@@ -27,6 +27,8 @@ state={
 			arms_factory = 3
 		}
 		
+		victory_points = { 1154 1 } # Rebel Base
+		victory_points = { 516 1 } # Kibo
 		victory_points = { 327 30 } # The Hub
 	}
 	

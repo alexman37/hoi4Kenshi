@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5781 1 } # Crabbacks
+		victory_points = { 4305 3 } # Skewer
 	}
 	
 	local_supplies = 5.0

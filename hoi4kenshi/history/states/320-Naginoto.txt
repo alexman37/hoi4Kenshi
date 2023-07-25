@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2908 3 } # Enne
+		victory_points = { 4030 10 } # Charlton
+		victory_points = { 788 1 } # Illiam
 	}
 	
 	local_supplies = 5.0

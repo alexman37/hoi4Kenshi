@@ -27,7 +27,9 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 6624 1 } # Brood Isle
+		victory_points = { 6331 1 } # Spleesh
+		victory_points = { 6313 1 } # Moot
 	}
 	
 	local_supplies = 5.0

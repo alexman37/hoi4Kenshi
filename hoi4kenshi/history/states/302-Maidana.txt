@@ -27,7 +27,8 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 2219 3 } # Crablowe
+		victory_points = { 1471 1 } # Critter
 	}
 	
 	local_supplies = 5.0

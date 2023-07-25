@@ -27,7 +27,10 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 143 30 } # Sho-Battai
+		victory_points = { 4669 3 } # Preloan
+		victory_points = { 3564 1 } # Romfox
+		victory_points = { 879 1 } # Narva
 	}
 	
 	local_supplies = 5.0

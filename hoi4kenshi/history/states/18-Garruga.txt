@@ -27,7 +27,10 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2716 5 } # Fort Keepin
+		victory_points = { 4529 1 } # Infron
+		victory_points = { 3120 3 } # Benvit
+		victory_points = { 1164 1 } # Cheek
 	}
 	
 	local_supplies = 5.0

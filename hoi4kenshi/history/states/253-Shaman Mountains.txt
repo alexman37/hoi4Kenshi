@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 3939 1 } # Igration
+		victory_points = { 1076 10 } # Stobe's Rest
 	}
 	
 	local_supplies = 5.0

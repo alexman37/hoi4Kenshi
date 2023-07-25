@@ -2,7 +2,7 @@ state={
 	id=353
 	name="STATE_353"
 	provinces={
-		65 376 482 1045 1273 1361 1377 1478 1746 1932 2053 2339 2686 2707 3127 3459 3507 3552 3953 4419 6230 6246 6253 6257 6272 6275 6298 6326 6339 6346 
+		1273 2053 2686 2707 3459 3507 3953 4419 6326 6339 6346 
 	}
 	manpower=24958
 	buildings_max_level_factor=1.000
@@ -27,7 +27,7 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 6346 1 } # Tune
 	}
 	
 	local_supplies = 5.0

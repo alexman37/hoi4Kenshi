@@ -28,6 +28,7 @@ state={
 		}
 		
 		victory_points = { 6592 3 } # Okran's Justice
+		victory_points = { 4783 1 } # Kerilla
 	}
 	
 	local_supplies = 5.0

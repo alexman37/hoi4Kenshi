@@ -27,7 +27,7 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 1359 5 } # Inka
 	}
 	
 	local_supplies = 5.0

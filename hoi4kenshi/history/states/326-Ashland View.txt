@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 2021 3 } # Grave Beach
 	}
 	
 	local_supplies = 5.0

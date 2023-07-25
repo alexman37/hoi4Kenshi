@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 4068 1 } # Cogear
+		victory_points = { 1241 1 } # Oilsheen
 	}
 	
 	local_supplies = 5.0

@@ -27,7 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
-		victory_points = { 6149 10 } # Impact
+		victory_points = { 6149 10 } # Fort Maxon
 	}
 	
 	local_supplies = 5.0

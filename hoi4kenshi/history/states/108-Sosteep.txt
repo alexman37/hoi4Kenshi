@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2788 1 } # Match
+		victory_points = { 3014 5 } # Paydem
 	}
 	
 	local_supplies = 5.0

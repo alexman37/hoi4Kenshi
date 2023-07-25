@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 5740 15 } # New Heng
+		victory_points = { 2516 5 } # Lushland
+		victory_points = { 5754 3 } # Fort Dott
 	}
 	
 	local_supplies = 5.0

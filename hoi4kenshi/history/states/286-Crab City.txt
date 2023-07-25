@@ -27,7 +27,9 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 1205 15 } # Crab City
+		victory_points = { 5983 3 } # Tusk Island
+		victory_points = { 3499 5 } # Crabwash
 	}
 	
 	local_supplies = 5.0

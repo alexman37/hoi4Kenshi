@@ -27,6 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
+		victory_points = { 2903 1 } # Fort Moll
 		victory_points = { 6539 3 } # Barlow
 	}
 	

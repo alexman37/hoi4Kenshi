@@ -27,6 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
+		victory_points = { 5509 1 } # Vida
 		victory_points = { 5546 3 } # Corleane
 	}
 	

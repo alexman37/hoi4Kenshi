@@ -27,6 +27,7 @@ state={
 			arms_factory = 2
 		}
 		
+		victory_points = { 427 1 } # Kepposu
 		victory_points = { 6484 3 } # Base Rei
 	}
 	

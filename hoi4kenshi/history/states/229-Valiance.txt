@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 5632 3 } # Whelp Front
+		victory_points = { 5646 1 } # Tyron
 	}
 	
 	local_supplies = 5.0

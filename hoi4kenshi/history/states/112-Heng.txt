@@ -27,7 +27,12 @@ state={
 			arms_factory = 2
 		}
 		
-		#victory_points = { }
+		victory_points = { 3464 3 } # Cater
+		victory_points = { 2317 40 } # Heng
+		victory_points = { 5140 20 } # Trader's Edge
+		victory_points = { 5120 3 } # Fort Baggs
+		victory_points = { 3377 1 } # Fort Skim
+		victory_points = { 5201 3 } # Packing
 	}
 	
 	local_supplies = 5.0

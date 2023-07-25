@@ -27,7 +27,9 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2531 1 } # Meddard
+		victory_points = { 921 1 } # Marion
+		victory_points = { 4241 3 } # Seat of Skins
 	}
 	
 	local_supplies = 5.0

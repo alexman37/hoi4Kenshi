@@ -27,7 +27,8 @@ state={
 			arms_factory = 1
 		}
 		
-		#victory_points = { }
+		victory_points = { 2256 3 } # Kyodai
+		victory_points = { 1081 1 } # Freak
 	}
 	
 	local_supplies = 5.0

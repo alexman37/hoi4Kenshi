@@ -27,7 +27,8 @@ state={
 			arms_factory = 0
 		}
 		
-		#victory_points = { }
+		victory_points = { 1728 3 } # Flow
+		victory_points = { 4909 5 } # Port East
 	}
 	
 	local_supplies = 5.0

@@ -28,6 +28,7 @@ state={
 		}
 		
 		victory_points = { 4693 3 } # New Fort Mirage
+		victory_points = { 6569 1 } # Snatch
 	}
 	
 	local_supplies = 5.0
